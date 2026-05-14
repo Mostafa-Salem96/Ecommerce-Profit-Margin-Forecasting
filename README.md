@@ -8,7 +8,7 @@ The project focuses on predicting profit margin from anonymized e-commerce trans
 
 ## Thesis Title
 
-**Hybrid SARIMAX–XGBoost Forecasting for E-commerce Profit Margin Prediction**
+**TIME SERIES FORECASTING ALGORITHMS FOR FINANCIAL PROFIT MARGIN PREDICTION IN THE E-COMMERCE SECTOR**
 
 ---
 
