@@ -1,0 +1,12 @@
+# Modelling Notebook
+
+This folder contains the Jupyter Notebook code developed for the master thesis project:
+
+**Hybrid SARIMAX–XGBoost Forecasting for E-commerce Profit Margin Prediction**
+
+The notebook includes data preprocessing, profit margin calculation, exploratory data analysis, feature engineering, SARIMAX modelling, XGBoost residual learning, hybrid forecasting, model evaluation, and category-level performance analysis.
+
+## Main Notebook
+
+The main notebook file should be added here:
+sarimax_xgboost_profit_margin_forecasting.ipynb
