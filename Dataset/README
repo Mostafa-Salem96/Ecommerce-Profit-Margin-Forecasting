@@ -1,0 +1,39 @@
+# Dataset Description
+
+This folder contains the anonymized e-commerce relational dataset used in the master thesis project:
+
+**Hybrid SARIMAX–XGBoost Forecasting for E-commerce Profit Margin Prediction**
+
+The dataset includes multiple relational tables representing customers, merchants, products, purchases, purchase lines, payments, and reviews. These tables are used to build the final analytical dataset for profit margin forecasting.
+
+## Dataset Tables
+
+- `dim_customers.xls` — customer information
+- `dim_merchants.xls` — merchant or seller information
+- `dim_products.xls` — product and category information
+- `dim_purchaselines.xls` — item-level purchase details
+- `fact_purchases.xls` — order-level transaction records
+- `fact_purchase_payments.xls` — payment-related information
+- `fact_purchase_reviews.xls` — customer review information
+
+## Purpose
+
+The dataset is used for:
+
+1. Data cleaning and preprocessing
+2. Integration of relational tables
+3. Profit margin calculation
+4. Feature engineering
+5. SARIMAX time-series modelling
+6. XGBoost residual learning
+7. Hybrid SARIMAX–XGBoost forecasting
+8. Model evaluation using MAE and RMSE
+9. Category-level forecasting performance analysis
+
+## Target Variable
+
+The main target variable is **profit margin**, calculated using revenue, product cost, and delivery fee.
+
+## Note
+
+The dataset is anonymized and used only for academic research purposes.
